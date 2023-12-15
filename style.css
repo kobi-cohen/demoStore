@@ -25,16 +25,17 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-    }
-      .itemTitle{
-         font-size: 20rem;
-      }
-
-        .itemImage{
-         width: 300px;
-         height: 400px;
-         background-size: cover;
-      }
+   }
+   .itemTitle{
+      font-size: 20rem;
+   }
+   
+   .itemImage{
+      border-radius: 10rem;
+      width: 300px;
+      height: 400px;
+      background-size: cover;
+   }
       
       .itemDescripation{
          font-size: 10rem;
